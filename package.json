@@ -41,9 +41,9 @@
     "@typescript-eslint/eslint-plugin": "^6.21.0",
     "@typescript-eslint/parser": "^6.21.0",
     "eslint": "^8.57.0",
-    "lint-staged": "^15.2.10",
+    "lint-staged": "^15.2.0",
     "nrm": "^1.2.6",
-    "simple-git-hooks": "^2.11.1",
+    "simple-git-hooks": "^2.9.0",
     "tsup": "^8.0.1",
     "tsx": "^4.6.2",
     "typescript": "^5.3.3"
